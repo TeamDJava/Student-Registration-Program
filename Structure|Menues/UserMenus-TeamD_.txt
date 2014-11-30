@@ -1,0 +1,189 @@
+WELCOME TO XYZ COLLEGE
+======================
+
+Please Sign up or Log in 
+------------------------
+1. SIGN UP (press 1)
+2. LOG-IN  (press 2)
+
+--------------------------------
+
+ OPTION 1:
+____________________________
+|   *******************    |
+|  STUDENT REGISTRATION    |
+|         FORM             |
+|   *******************    |
+|                          |
+| FIRST NAME: __________   |
+|  LAST NAME: __________   |
+|                          |
+|  CHOOSE AN ACCOUNT       |
+|  PASSWORD: __________    |
+|__________________________|
+
+--------------------------------
+
+ OPTION 2:
+____________________________
+|   *******************    |
+|  STUDENT LOG-IN PAGE     |
+|   *******************    |
+|                          |
+| ACCOUNT #: __________    |
+|  PASSWORD: __________    | 
+|                          |
+|__________________________|
+
+--------------------------------
+
+Please CHOOSE AN OPTION
+------------------------
+1. BROWSE CLASSES       (press B)
+2. ADD/DROP A CLASS     (press A)
+3. LIST CLASS SCHEDULE  (press L)
+4. EXIT BROWSING        (press X)
+--------------------------------
+
+ OPTION 1:
+____________________________
+|   *******************    |
+|    BROWSE CLASS LIST     |
+|   *******************    |
+|                          |
+|   COURSE       CLASS#    |
+| _____________________    |
+| ALGEBRA I.......13333    | 
+| ALGEBRA II......23333    |
+| CHOIR I.........12222    |
+| CHOIR II........12222    |
+| ENGLISH I.......15555    |
+| ENGLISH II......25555    |
+| JAVA I..........14444    |
+| JAVA II.........24444    |
+| SPANISH I.......11111    |
+| SPANISH II......11111    |
+|                          |
+| NEXT PAGE--> (press N)   |
+| <--PREVIOUS  (press P)   |
+|                          |
+| ADD A CLASS  (press A)   |
+|                          |
+| BACK TO MENU (press M)   |
+|__________________________|
+
+
+
+ OPTION 2: (CLOSED)
+____________________________
+|   *******************    |
+|    ADD/DROP A CLASS:     |
+|   *******************    |
+|                          |
+|  ENTER CLASS #  14444    |
+|                          |
+|    30 SEATS/30 SEATS     |
+|    -OPEN-   [CLOSED]     |
+|                          |
+|  ***CLASS IS CLOSED***   |
+|                          |
+|  WAITING LIST: OPEN      |
+|  (5/10 SEATS)            |
+|                          |
+|JOIN WAITING LIST(Y/N)?:  |
+|                          |
+| Y = JOIN LIST & CONFIRM  |
+| N = BACK TO MENU         |
+|__________________________|
+
+
+ OPTION 2: (OPEN)
+____________________________
+|   *******************    |
+|      ADD A CLASS:        |
+|   *******************    |
+|                          |
+|  ENTER CLASS #  14444    |
+|                          |
+|                          |
+|     [OPEN]   -CLOSED-    |
+|                          |
+|  ***CLASS IS OPEN***     |
+|                          |
+|                          |
+|  ADD THIS CLASS (Y/N)?:  |
+|                          |
+| Y = ADD CLASS & CONFIRM  |
+| N = BACK TO MENU         |
+|__________________________|
+
+
+Please CHOOSE AN OPTION
+------------------------
+1. BROWSE CLASSES  (press B)
+2. ADD A CLASS     (press A)
+3. DROP A CLASS    (press D)
+4. EXIT BROWSING   (press X)
+
+____________________________
+|   *******************    |
+|     DROP A CLASS:        |
+|   *******************    |
+|                          |
+|  ENTER CLASS #  14444    |
+|                          |
+|                          |
+|      ***WARNING***       |
+|THIS WILL DELETE CLASS!!! |
+|                          |
+| DROP THIS CLASS (Y/N)?:  |
+|                          |
+| Y = DROP CLASS           |
+| N = BACK TO MENU         |
+|__________________________|
+
+
+Please CHOOSE AN OPTION
+------------------------
+1. BROWSE CLASSES  (press B)
+2. ADD A CLASS     (press A)
+3. DROP A CLASS    (press D)
+4. EXIT BROWSING   (press X)
+
+____________________________
+|                          |
+|  VIEW STUDENT SCHEDULE   |
+|                          |
+|  COURSE        CLASS#    |
+| _____________________    |
+| SPANISH I.......11111    |
+| CHOIR I.........12222    |
+| ALGEBRA II......23333    |
+| JAVA II.........24444    |
+| ENGLISH I.......15555    |
+|                          |
+|                          |
+|  BACK TO MENU (press M)  |
+|                          |
+|__________________________|
+
+Please CHOOSE AN OPTION
+------------------------
+1. BROWSE CLASSES  (press B)
+2. ADD A CLASS     (press A)
+3. DROP A CLASS    (press D)
+4. EXIT BROWSING   (press X)
+
+____________________________
+|   *******************    |
+|    LOG OUT OF SYSTEM     |
+|   *******************    |
+|                          |
+|      ***WARNING***       |
+| THIS WILL LOG YOU OUT!!! |
+|                          |
+|LOG OUT OF SYSTEM (Y/N)?: |
+|                          |
+| Y = LOG OUT OF SYSTEM    |
+| N = BACK TO MENU         |
+|__________________________|
