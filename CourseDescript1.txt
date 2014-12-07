@@ -1,0 +1,26 @@
+Algebra 1 - Course Description: This course provides a formal development of the algebraic skills and concepts necessary for students to succeed in advanced courses. Topics include: (1) operations with real numbers, (2) linear equations and inequalities, (3) relations and functions, (4) polynomials, (5) algebraic fractions, and (6) nonlinear equations.
+----------------------
+
+Algebra 2 - Course Description:  This course is designed to build on algebraic and geometric concepts.  It develops advanced algebra skills such as systems of equations, advanced polynomials, imaginary and complex numbers, quadratics, and includes the study of trigonometric functions.
+----------------------
+
+English 100 - This composition course focuses on writing to help you communicate more fluently, express your ideas more convincingly and think more critically. It helps prepare you, as a writer, for the demands of college-level courses across the disciplines.
+----------------------
+
+Java 1 - Course Description:   This course provides students with the knowledge to be able to design programs using Java through extensive hands-on exercises, including the concepts of fundamental data types, flow control, and standard function libraries. The course emphasizes object-oriented programming and modular design to support distributed development environments
+----------------------
+
+Java 2 - Course Description:  This course expands your knowledge of Java to the advanced features of the Java programming environment, including graphical user interfaces (GUIs) using Swing, multithreading and concurrency, Generics, basics of databases, Servlets, Java Server Pages (JSPs), exception handling, debugging, and performance tuning. 
+----------------------
+
+Geology - Course Description:  This course introduces origin and classification of minerals and rocks. Relationships between rock types, rock structures, surficial geological processes weathering, glaciation, tides, and landform evolution, as well as Geologic time.
+----------------------
+
+Physical Education 1 - Course Description:  This course introduces concepts for personal development in health-related fitness and physical skills; these include cardiovascular exercise, body composition, strength, endurance, and flexibility which will be the basis for the four-year physical education program.
+----------------------
+
+Dance 1 - Course Description:  This course is a survey of dance as art in the Western world. The course examines the diversity of people, cultures and events that led to the development of Ballet, Modern, Jazz, Tap, Hip-Hop and Musical Theatre Dance.
+----------------------
+
+Psychology 1 - Course Description:  This course is designed to give the student a basic understanding of the psychology of human behavior, including the concepts, terminology, principles, and theories that comprise an introductory course in psychology.
+----------------------
